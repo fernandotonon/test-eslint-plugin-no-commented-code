@@ -1,6 +1,6 @@
 {
     "devDependencies": {
-        "eslint": "^8.45.0",
+        "eslint": "^9.2.0",
         "eslint-plugin-no-commented-code": "^1.0.10"
     },
     "scripts": {
